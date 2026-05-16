@@ -52,6 +52,6 @@ Navigate to the client directory: cd client
 Install dependencies: npm install
 
 Launch the application: npm start
-# Sales Management System
-# Sales Management System
-# Sales Management System
+# Sales Management Portal
+# Sales Management Portal
+# Sales Management Portal
