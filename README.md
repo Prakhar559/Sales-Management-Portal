@@ -52,6 +52,6 @@ Navigate to the client directory: cd client
 Install dependencies: npm install
 
 Launch the application: npm start
-# zorynA
-# zorynA
-# zorynA
+# Sales Management System
+# Sales Management System
+# Sales Management System
