@@ -1,4 +1,4 @@
-# ContractHub-MERN
+# Sales Management Portal-MERN
 
 
 
